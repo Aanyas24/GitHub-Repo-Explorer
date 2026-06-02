@@ -47,7 +47,7 @@ https://github-repo-explorer-api-2m1s.onrender.com
 ### Clone Repository
 
 ```bash
-git clone YOUR_REPO_URL
+git clone REPO_URL
 ```
 
 ### Backend
