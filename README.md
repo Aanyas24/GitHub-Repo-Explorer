@@ -7,7 +7,7 @@ GitHub Repo Explorer is a full-stack web application that allows users to search
 ## Live Demo
 
 Frontend:
-https://YOUR-VERCEL-URL.vercel.app
+(https://github-repo-explorer-eta-ten.vercel.app/)
 
 Backend:
 https://github-repo-explorer-api-2m1s.onrender.com
