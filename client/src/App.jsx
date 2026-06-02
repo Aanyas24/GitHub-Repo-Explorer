@@ -33,7 +33,7 @@ function App() {
       setError("");
 
       const response = await axios.get(
-        `http://localhost:5000/api/github/${username}`
+        `https://github-repo-explorer-api-2m1s.onrender.com/api/github/${username}`
       );
 
       setUser(response.data.profile);
